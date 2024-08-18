@@ -1,0 +1,29 @@
+*{
+font-family: 'Courier New', Courier, monospace;
+}
+/*descendant selector*/
+p a {
+    color:rgb(212, 15, 212);
+}
+#login{
+    color: white;
+    background-color: brown;
+}
+.upvate {
+    color: brown;
+    background-color: antiquewhite;
+}
+.upvate + button {
+
+    color: blueviolet;
+    background-color: aqua;
+}
+p +h3{
+    text-decoration: underline;
+}
+input[type="text"] {
+    color:blue;
+}
+input[type="password"] {
+    color:green;
+}

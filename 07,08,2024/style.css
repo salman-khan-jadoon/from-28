@@ -1,0 +1,32 @@
+h1{
+text-align: center;
+    color:orange
+    width 100px;
+    height: 100px;
+    background: aqua;
+    border: blacks;
+    text-decoration:red line-through ;
+}
+h2{
+    text-align: center;
+        color:orange
+        width 100px;
+        height: 100px;
+        background: aqua;
+        border: blacks;
+        
+    }
+p{
+    color:brown;
+    background:yellow;
+    text-decoration:rgb(8, 8, 233) overline; 
+}
+ul{
+    color:white;
+    background:black;
+    text-decoration:rgb(117, 11, 216) underline;
+}
+button{
+    background: blue;
+    color:white
+}
